@@ -1,3 +1,12 @@
+What This Project Does  
+  
+Framework ini digunakan untuk otomatisasi web eSuite, mencakup:  
+  
+✅ Login  
+✅ Create Company  
+✅ Verify Company List/Detail  
+✅ Generate Allure Report (screenshots + steps)  
+  
 -- Installation  
 
 1️. Clone Repository  
