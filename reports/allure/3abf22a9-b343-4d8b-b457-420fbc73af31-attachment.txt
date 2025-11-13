@@ -1,0 +1,2 @@
+PT Puspita Tbk
+('xpath', "//div[contains(text(), 'PT Puspita Tbk')]/parent::div/following-sibling::div/div/button[contains(text(), 'Mengelola')]")
